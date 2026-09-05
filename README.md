@@ -140,16 +140,12 @@ Exploratory Data Analysis
 ```text
 Job-Market-Data-Scraping-Exploratory-Analysis/
 │
-├── data/
-│   ├── linkedin_jobs_cleaned.csv
-│   └── linkedin_jobs_final.csv
+│── linkedin_jobs_cleaned.csv
+│── linkedin_jobs_final.csv
+│── 01_data_collection.ipynb
+│── 02_data_cleaning.ipynb
+│── 02_eda.ipynb
 │
-├── notebooks/
-│   ├── 01_data_collection.ipynb
-│   ├── 02_data_cleaning.ipynb
-│   └── 03_eda.ipynb
-│
-├── visualizations/
 │
 ├── README.md
 └── .gitignore
